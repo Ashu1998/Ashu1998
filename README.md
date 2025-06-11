@@ -1,6 +1,12 @@
-<h3 align="left">Hi, I’m Ashish Verma – a software engineer who enjoys building scalable systems and clean APIs.<br><br>* ⚙️ Love working with Node.js, TypeScript, SQL, and Redis<br><br>* 🔗 Focused on backend, system design, and integrations<br><br>* 📈 Passionate about reliability, simplicity, and performance<br><br>* 🎓 B.Tech from NIT Hamirpur<br><br>💬 "Build things that last. Fix things that break. Learn something every day."</h3>
+<h2 align="left">Hello World!, I'm Ashish, a Backend Developer 👋🏼:</h2>
 
 ###
+
+<h5 align="left">⚙️ Love working with Node.js, TypeScript, SQL, and Redis<br><br>🔗 Focused on backend, system design, and integrations<br><br> 📈 Passionate about reliability, simplicity, and performance<br><br>🎓 B.Tech from NIT Hamirpur<br><br>💬 "Build things that last. Fix things that break. Learn something every day."</h5>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashu1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Coding%20Activity%20Snapshot" height="150" alt="stats graph"  />
@@ -64,7 +70,6 @@
 
 ###
 
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
