@@ -18,45 +18,45 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="47" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="47" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="47" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="47" alt="express logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="47" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="47" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redis" height="47" alt="redis logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="47" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="47" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jest" height="47" alt="jest logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="47" alt="kotlin logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="47" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=latex" height="47" alt="latex logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="47" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="47" alt="php logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="47" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="47" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="47" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="47" alt="jenkins logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="47" alt="graphql logo"  />
 </div>
 
 ###
