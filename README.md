@@ -3,7 +3,7 @@
 
 ###
 
-<h5 align="left">🧠 Problem Solver – I enjoy turning complex challenges into clean, reliable solutions.<br><br>⚙️ Tech Enthusiast – Always curious about how things work and how to make them better.<br><br>🔗 System Integrator – I build solutions that connect, communicate, and scale smoothly.<br><br>🚀 Scalability Focused – I value performance, reliability, and thoughtful design.<br><br>📚 Lifelong Learner – Continuously exploring, adapting, and growing in the world of software.<br><br>🎓 Engineer by Training – B.Tech graduate from NIT Hamirpur.<br><br>💬 "Build things that last. Fix things that break. Learn something new every day."</h5>
+<h5 align="left">🧠 Problem Solver – I enjoy turning complex challenges into clean, reliable solutions.<br><br>⚙️ Tech Enthusiast – Always curious about how things work and how to make them better.<br><br>🔗 System Integrator – I build solutions that connect, communicate, and scale smoothly.<br><br>🚀 Scalability Focused – I value performance, reliability, and thoughtful design.<br><br>📚 Lifelong Learner – Continuously exploring, adapting, and growing in the world of software.<br><br>🎓 B.Tech graduate from NIT Hamirpur.<br><br>💬 "Build things that last. Fix things that break. Learn something new every day."</h5>
 
 ###
 
