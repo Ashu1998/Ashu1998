@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ashu1998&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Coding%20Activity%20Snapshot" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Ashu1998&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashu1998&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Language%20Stack%20Snapshot" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Ashu1998&theme=tokyonight&margin-w=5&margin-h=5&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
