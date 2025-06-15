@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Dialogflow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" height="40" alt="OpenAI" />
+  <img src="https://img.icons8.com/?size=100&id=EzmQwT9W9uy4&format=png&color=000000" height="40" alt="OpenAI" />
 </p>
 
 #### ⚙️ Tools & OS
