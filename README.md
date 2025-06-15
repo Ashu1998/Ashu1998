@@ -73,8 +73,6 @@
 
 ---
 
-## 🐍 GitHub Contributions Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu1998/ashu1998/output/github-snake-dark.svg" />
